@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 4e9cbc118677e4b45b47d33c9692390a
+timeCreated: 1492926810
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bulb
+    100002: buld_end
+    100004: l_f4
+    100006: l_front
+    100008: l_front2
+    100010: l_front3
+    100012: l_front4
+    100014: l_fs
+    100016: l_fs2
+    100018: l_fs2 1
+    100020: l_fs3
+    100022: l_fs3 1
+    100024: l_fs4
+    100026: l_rear
+    100028: l_rear2
+    100030: l_rear3
+    100032: l_rear4
+    100034: l_rs
+    100036: main
+    100038: //RootNode
+    100040: pCube8
+    100042: r_f4
+    100044: r_front
+    100046: r_front2
+    100048: r_front3
+    100050: r_front4
+    100052: r_fs
+    100054: r_fs2
+    100056: r_fs2 1
+    100058: r_fs3
+    100060: r_fs3 1
+    100062: r_fs4
+    100064: r_rear
+    100066: r_rear2
+    100068: r_rear3
+    100070: r_rear4
+    100072: r_rs
+    400000: bulb
+    400002: buld_end
+    400004: l_f4
+    400006: l_front
+    400008: l_front2
+    400010: l_front3
+    400012: l_front4
+    400014: l_fs
+    400016: l_fs2
+    400018: l_fs2 1
+    400020: l_fs3
+    400022: l_fs3 1
+    400024: l_fs4
+    400026: l_rear
+    400028: l_rear2
+    400030: l_rear3
+    400032: l_rear4
+    400034: l_rs
+    400036: main
+    400038: //RootNode
+    400040: pCube8
+    400042: r_f4
+    400044: r_front
+    400046: r_front2
+    400048: r_front3
+    400050: r_front4
+    400052: r_fs
+    400054: r_fs2
+    400056: r_fs2 1
+    400058: r_fs3
+    400060: r_fs3 1
+    400062: r_fs4
+    400064: r_rear
+    400066: r_rear2
+    400068: r_rear3
+    400070: r_rear4
+    400072: r_rs
+    4300000: pCube8
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: main
+        weight: 1
+      - path: main/bulb
+        weight: 1
+      - path: main/bulb/buld_end
+        weight: 1
+      - path: main/l_front
+        weight: 1
+      - path: main/l_front/l_front2
+        weight: 1
+      - path: main/l_front/l_front2/l_front3
+        weight: 1
+      - path: main/l_front/l_front2/l_front3/l_front4
+        weight: 1
+      - path: main/l_fs
+        weight: 1
+      - path: main/l_fs/l_fs2
+        weight: 1
+      - path: main/l_fs/l_fs2/l_fs3
+        weight: 1
+      - path: main/l_fs/l_fs2/l_fs3/l_f4
+        weight: 1
+      - path: main/l_rear
+        weight: 1
+      - path: main/l_rear/l_rear2
+        weight: 1
+      - path: main/l_rear/l_rear2/l_rear3
+        weight: 1
+      - path: main/l_rear/l_rear2/l_rear3/l_rear4
+        weight: 1
+      - path: main/l_rs
+        weight: 1
+      - path: main/l_rs/l_fs2 1
+        weight: 1
+      - path: main/l_rs/l_fs2 1/l_fs3 1
+        weight: 1
+      - path: main/l_rs/l_fs2 1/l_fs3 1/l_fs4
+        weight: 1
+      - path: main/r_front
+        weight: 1
+      - path: main/r_front/r_front2
+        weight: 1
+      - path: main/r_front/r_front2/r_front3
+        weight: 1
+      - path: main/r_front/r_front2/r_front3/r_front4
+        weight: 1
+      - path: main/r_fs
+        weight: 1
+      - path: main/r_fs/r_fs2
+        weight: 1
+      - path: main/r_fs/r_fs2/r_fs3
+        weight: 1
+      - path: main/r_fs/r_fs2/r_fs3/r_f4
+        weight: 1
+      - path: main/r_rear
+        weight: 1
+      - path: main/r_rear/r_rear2
+        weight: 1
+      - path: main/r_rear/r_rear2/r_rear3
+        weight: 1
+      - path: main/r_rear/r_rear2/r_rear3/r_rear4
+        weight: 1
+      - path: main/r_rs
+        weight: 1
+      - path: main/r_rs/r_fs2 1
+        weight: 1
+      - path: main/r_rs/r_fs2 1/r_fs3 1
+        weight: 1
+      - path: main/r_rs/r_fs2 1/r_fs3 1/r_fs4
+        weight: 1
+      - path: pCube8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

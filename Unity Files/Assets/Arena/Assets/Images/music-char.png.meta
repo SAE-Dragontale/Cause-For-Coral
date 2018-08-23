@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: c2e87cd433fd765439c72a98baf68e30
+timeCreated: 1493017654
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: musicleftarm
+    21300002: musichead
+    21300004: musicrightarm
+    21300006: musiclefthand
+    21300008: musicrighthand
+    21300010: musicleftleg
+    21300012: musicbody
+    21300014: musicrightleg
+    21300016: musicleftfoot
+    21300018: musicrightfoot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: musicleftarm
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 404
+        width: 51
+        height: 72
+      alignment: 9
+      pivot: {x: 0.76427686, y: 0.9055917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musichead
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 260
+        width: 182
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5154283, y: 0.06260931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicrightarm
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 415
+        width: 35
+        height: 61
+      alignment: 9
+      pivot: {x: 0.29140973, y: 0.87746143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musiclefthand
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 91
+        height: 134
+      alignment: 9
+      pivot: {x: 0.7468521, y: 0.95681447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicrighthand
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 283
+        width: 47
+        height: 104
+      alignment: 9
+      pivot: {x: 0.27297518, y: 0.91039157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicleftleg
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 38
+        height: 73
+      alignment: 9
+      pivot: {x: 0.54433584, y: 0.8846498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicbody
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 107
+        height: 164
+      alignment: 9
+      pivot: {x: 0.53149074, y: 0.4897271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicrightleg
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 170
+        width: 40
+        height: 72
+      alignment: 9
+      pivot: {x: 0.57019806, y: 0.9133922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicleftfoot
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 59
+        height: 97
+      alignment: 9
+      pivot: {x: 0.36674163, y: 0.93421805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: musicrightfoot
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 29
+        width: 60
+        height: 104
+      alignment: 9
+      pivot: {x: 0.2847244, y: 0.9211913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

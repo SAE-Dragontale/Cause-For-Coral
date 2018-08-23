@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 684f9aa5bf047f04a8a299ccd8387862
+timeCreated: 1493017220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beardleftarm
+    21300002: beardhead
+    21300004: beardrightarm
+    21300006: beardlefthand
+    21300008: beardrighthand
+    21300010: beardleftleg
+    21300012: beardbody
+    21300014: beardrightleg
+    21300016: beardleftfoot
+    21300018: beardrightfoot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beardleftarm
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 412
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48562077, y: 0.883568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardhead
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 277
+        width: 192
+        height: 199
+      alignment: 9
+      pivot: {x: 0.54718083, y: 0.056925863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardrightarm
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 418
+        width: 37
+        height: 62
+      alignment: 9
+      pivot: {x: 0.255169, y: 0.8701418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardlefthand
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 280
+        width: 51
+        height: 101
+      alignment: 9
+      pivot: {x: 0.42895097, y: 0.91855556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardrighthand
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 289
+        width: 45
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3121155, y: 0.9068488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardleftleg
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 169
+        width: 40
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4698041, y: 0.8657517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardbody
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 122
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardrightleg
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 170
+        width: 37
+        height: 74
+      alignment: 9
+      pivot: {x: 0.45103413, y: 0.91621214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardleftfoot
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 55
+        height: 98
+      alignment: 9
+      pivot: {x: 0.36823627, y: 0.91904354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beardrightfoot
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 32
+        width: 56
+        height: 102
+      alignment: 9
+      pivot: {x: 0.33823723, y: 0.9322143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
